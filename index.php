@@ -1,7 +1,6 @@
 <?php
 
 echo "Hello World!";
-<br>
-  echo "A M S Prabhashwara Atapattu";
-<br>
-  echo "500218461";
+echo "<br> A M S Prabhashwara Atapattu <br> 500218461";
+
+</?>
