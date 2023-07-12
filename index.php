@@ -1,10 +1,9 @@
 <?php
-
-echo "Hello World!";
-<br>
-echo "A M S Prabhashwara Atapattu";
-<br>
-echo "500218461";
-<br>
-
-
+session_start();
+include_once 'header.php';
+?>
+// Page content
+</body>
+<h1>A M S Prabhashwara Atapattu</h1>
+<h2>500218461</h2>
+</html>
