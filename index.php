@@ -1,3 +1,3 @@
 <?php
 
-echo "<br> A M S Prabhashwara Atapattu <br> 500218461";
+echo "<h1>A M S Prabhashwara Atapattu </h1> 500218461";
